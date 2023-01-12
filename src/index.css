@@ -22,7 +22,7 @@ body{
 
 
 .my-img{
-    width: 10px;
+    width: 100%;
     background: #F5F5F5;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
